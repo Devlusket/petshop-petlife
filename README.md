@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela OneBitCode para ensino de tecnolog
 
 <p align="center">
   <img alt="projeto petlife" src=".github/petlife.png" width="100%">
-  <img alt="projeto petlife" src=".github/preview.png" width="100%">
+  <!-- <img alt="projeto petlife" src=".github/preview.png" width="100%"> -->
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O PetLife é um site institucional para um Petshop fictício feito para estudar tecnologias   CSS e Javascript
 
-- [Acesse o projeto finalizado, online](https://devlusket.github.io/petlife-page)
+- [Acesse o projeto finalizado, online](https://devlusket.github.io/petshop-petlife/)
 
 
 ## 📋 Licença
