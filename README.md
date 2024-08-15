@@ -18,6 +18,7 @@ Programa exclusivo e gratuito, promovido pela OneBitCode para ensino de tecnolog
 
 <p align="center">
   <img alt="projeto petlife" src=".github/petlife.png" width="100%">
+  <img alt="projeto petlife" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
