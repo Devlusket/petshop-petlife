@@ -215,9 +215,9 @@ footer p a {
         padding: 0 auto;
     }
 
-    #inicio .botao-transparente {
+    /* #inicio .botao-transparente {
         display: none;
-    }
+    } */
 
     .botoes a {
         display: flex;
