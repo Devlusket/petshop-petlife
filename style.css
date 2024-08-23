@@ -212,16 +212,16 @@ footer p a {
     #inicio img, #clinica img, #farmacia img {
         height: 360px;
         width: 360px;
-        padding: 0 auto;
+        /* padding: 5px auto; */
+    }
+    
+    .botoes a {
+        display: block;
+        margin: 15px 15px 20px 15px;
     }
 
-    /* #inicio .botao-transparente {
+    .botoes .botao-transparente {
         display: none;
-    } */
-
-    .botoes a {
-        display: flex;
-        margin: 10px;
     }
 
     #inicio .absolute {
