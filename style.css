@@ -221,6 +221,14 @@ footer p a {
         display: none;
     }
 
+    .botoes .botao {
+        display: none;
+    }
+
+    .botoes .botao-transparente {
+        display: none;
+    }
+
 
     #inicio .absolute {
         display: none;
