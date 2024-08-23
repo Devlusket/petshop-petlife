@@ -216,13 +216,11 @@ footer p a {
     }
     
     .botoes a {
-        display: block;
-        margin: 15px 15px 20px 15px;
-    }
-
-    .botoes .botao-transparente {
+        /* display: block; */
+        /* margin: 15px 15px 20px 15px; */
         display: none;
     }
+
 
     #inicio .absolute {
         display: none;
